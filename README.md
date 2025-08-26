@@ -1,5 +1,5 @@
 # Scratcher-Hunter
-Current Version: v4.6.3 (As of 2024.10.19)
+Current Version: v4.7.0 (As of 2025.08.26)
 
 Please download the appropriate file for the purposes of offline play and modding.
 
